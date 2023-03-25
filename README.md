@@ -1,2 +1,2 @@
 # contact-us
-Django + Celery
+Django + Docker + Celery
